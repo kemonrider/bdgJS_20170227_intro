@@ -1,0 +1,22 @@
+{
+  "name": "jsapplication",
+  "version": "1.0.0",
+  "description": "JS Application sample",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": {
+    "name": "Ricky Prahatama",
+    "email": "ricky.prahatama@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "morgan": "^1.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
